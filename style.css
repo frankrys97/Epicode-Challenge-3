@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: 'montserrat', sans-serif;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    height: 767px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Parco_nazionale_vesuvio.jpg/1024px-Parco_nazionale_vesuvio.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'prata', sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+ h3 {
+    font-family: 'prata', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+ a {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+    color: #a67757;
+ }
+
+ h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(#a67757, #4f6c96);
+    font-size: medium;
+ }
+
+ ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+ }
+
+ li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    color:  #dfdfdf;
+ }
+
+
+#StadioMaradona_image {
+    background-image: url(https://www.campania.info/wp-content/uploads/sites/111/napoli_stadio_maradona.jpg);
+    height: 500px;
+}
+
+#LungomarediNapoli_image {
+    background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/350000/350410-Via-Caracciolo-E-Lungomare-Di-Napoli.jpg);
+    height: 1048px;
+}
+
+#PiazzaPlebiscito_image {
+    background-image: url(https://www.comune.napoli.it/flex/images/1/e/1/D.cb0d6ae2e1f5e45855c4/1.jpeg);
+    height: 1024px;
+}
+
+#StadioMaradona_grad {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(#2656b3, #78787c);
+}
+
+#LungomarediNapoli_grad {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(#94c5e8, #304629);
+}
+
+#PiazzaPlebiscito_grad {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(#755547, #480f6e);
+}
+.colorlist2 {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+    color: #2656b3;
+}
+
+.colorlist3 {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+    color: #304629;
+}
+
+.colorlist4 {
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+    color: #480f6e;
+}
+
+footer {
+    padding: 16px;
+    background-color: black;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
